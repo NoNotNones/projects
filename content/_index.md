@@ -1,11 +1,11 @@
 ---
-title : "Start with Amazon VPC and AWS VPN Site-to-Site"
+title : "My Projects"
 date : "`r Sys.Date()`"
 weight : 1
 chapter : false
 ---
 
-# Start with Amazon VPC and AWS VPN Site-to-Site
+# Wellcome to my projects
 
 #### Overviews
 
@@ -17,7 +17,7 @@ In this lab, you will explore the fundamentals of Amazon VPC (Virtual Private Cl
 
 
 
-#### Content
+#### Projects
 
 1. [Introduction to VPC](/projects/1-introduce/)
 2. [Firewall within VPC](/projects/2-firewallinvpc/)
