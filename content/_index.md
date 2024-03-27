@@ -7,10 +7,6 @@ chapter : false
 
 # Wellcome to my projects
 
-### Overviews
-
-Lets learn and best practices
-
 #### Projects:
 
 1. [pfELK centralization logs](/projects/1-project-001/)

@@ -4,42 +4,42 @@
 	"title": "My Projects",
 	"tags": [],
 	"description": "",
-	"content": "Wellcome to my projects Overviews Lets learn and best practices\nProjects: pfELK centralization logs Network Security Enhancement Monitoring network infrastructure Automated System Monitoring Project 005 "
+	"content": "Wellcome to my projects Projects: pfELK centralization logs Network Security Enhancement Monitoring network infrastructure Automated System Monitoring Project 005 "
 },
 {
 	"uri": "http://localhost:1313/projects/1-project-001/1.1-notes/",
 	"title": "Notes",
 	"tags": [],
 	"description": "",
-	"content": " "
+	"content": "Notes "
 },
 {
 	"uri": "http://localhost:1313/projects/2-project-002/2.1-notes/",
 	"title": "Notes",
 	"tags": [],
 	"description": "",
-	"content": "Security Group Basic Features of Security Group Allow Rules Only: Only Allow rules can be added; Deny rules cannot be added. Separate Rules for Traffic: Separate rules can be specified for outgoing and incoming traffic. Initial Inbound Rules: A newly created Security group starts with no Inbound rules. Initially, the instance won\u0026rsquo;t allow any traffic in, requiring "
+	"content": "Notes "
 },
 {
 	"uri": "http://localhost:1313/projects/3-project-003/3.1-notes/",
 	"title": "Notes",
 	"tags": [],
 	"description": "",
-	"content": "Create VPC Access the AWS Management Console interface: Locate and click on VPC Choose VPC Within the VPC interface: Select Your VPC Click on Create VPC "
+	"content": "Notes "
 },
 {
 	"uri": "http://localhost:1313/projects/4-project-004/4.1-notes/",
 	"title": "Notes",
 	"tags": [],
 	"description": "",
-	"content": "Create EC2 Instances in Subnets Access the AWS Management Console:\nNavigate to EC2 Click on Instances 2\n"
+	"content": "Notes "
 },
 {
 	"uri": "http://localhost:1313/projects/5-project-005/5.1-notes/",
 	"title": "Notes",
 	"tags": [],
 	"description": "",
-	"content": "Create a VPN environment Before initiating and configuring the Site-to-Site VPN connection, we need to create a branch emulator (ASG VPN) environment like the architecture below.\nContents Notes "
+	"content": "Notes "
 },
 {
 	"uri": "http://localhost:1313/projects/1-project-001/",
@@ -71,10 +71,10 @@
 },
 {
 	"uri": "http://localhost:1313/projects/5-project-005/",
-	"title": "Project 005",
+	"title": "Sample Projects",
 	"tags": [],
 	"description": "",
-	"content": "Overviews In this project, we will discuss how to connect an On-premise data center to Amazon VPC using a hard or soft VPN, depending on the specific requirements. To establish a Site-to-Site VPN connection, the following steps need to be taken:\n1. Virtual Private Gateway (VPG) and Customer Gateway (CGW) Setup Virtual Private Gateway (VPG): This serves as the control center that connects the virtual private network (VPN) within AWS.\nCustomer Gateway (CGW): This component represents the hard or soft VPN device located at the Client\u0026rsquo;s end.\nContents Notes "
+	"content": "Introduction Contents Notes "
 },
 {
 	"uri": "http://localhost:1313/projects/categories/",

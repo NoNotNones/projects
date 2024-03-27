@@ -13,4 +13,6 @@ pre : " <b> 3. </b> "
 
 ![pfelk](/projects/images/zabbix/1.png?featherlight=false&width=90pc)
 
+![pfelk](/projects/images/zabbix/2.png?featherlight=false&width=90pc)
+
 - [Notes](3.1-notes/)
