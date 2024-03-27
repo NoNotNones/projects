@@ -12,7 +12,6 @@ A **Security Group** acts as a virtual firewall for an EC2 Instance, allowing co
 
 > **Note:** Security Groups function at the virtual machine level, rather than the subnet level. However, each virtual machine within a subnet can be assigned to different security groups.
 
-### Contents
+## Contents
 
-- [Security Groups](2.1-securitygroup/)
-- [Network ACLs](2.2-networkacls/)
+- [Notes](2.1-notes/)

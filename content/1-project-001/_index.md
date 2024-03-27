@@ -12,9 +12,6 @@ Amazon Virtual Private Cloud (Amazon VPC) is a **Virtual Private Cloud**—a cus
 
 ## Contents
 
-- [Subnets](1.1-subnets/)
-- [Route Table](1.2-routetable/)
-- [Internet Gateway](1.3-internetgateway/)
-- [NAT Gateway](1.4-natgateway/)
+- [Notes](1.1-notes/)
 
 In the following sections, we will delve into the fundamental concepts of VPC.

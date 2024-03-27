@@ -9,7 +9,7 @@
 
     <link rel="icon" href="/projects/images/favicon.png" type="image/png">
 
-    <title>Categories :: My Projects</title>
+    <title>Notes :: My Projects</title>
 
     
     <link href="/projects/css/nucleus.css?1711507399" rel="stylesheet">
@@ -36,7 +36,7 @@
     </style>
     
   </head>
-  <body class="" data-url="/projects/categories/">
+  <body class="" data-url="/projects/1-project-001/1.1-notes/">
     <nav id="sidebar" class="">
 
 
@@ -83,7 +83,7 @@
   
     
     <li data-nav-id="/projects/1-project-001/" title="Project 001" class="dd-item 
-        
+        parent
         
         
         ">
@@ -113,7 +113,7 @@
     
     <li data-nav-id="/projects/1-project-001/1.1-notes/" title="Notes" class="dd-item 
         
-        
+        active
         
         ">
       <a href="/projects/1-project-001/1.1-notes/">
@@ -449,7 +449,13 @@
             
           
           
-            <a href='/projects/'>My Projects</a> > Categories
+            
+            
+          
+          
+            <a href='/projects/'>My Projects</a> > <a href='/projects/1-project-001/'>Project 001</a> > Notes
+          
+        
           
         
           
@@ -460,7 +466,11 @@
                 
                     <div class="progress">
     <div class="wrapper">
-<nav id="TableOfContents"></nav>
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#subnets">Subnets</a></li>
+  </ul>
+</nav>
     </div>
 </div>
 
@@ -476,9 +486,7 @@
           
             <h1>
               
-                taxonomy ::
-              
-              Categories
+              Notes
             </h1>
           
 
@@ -486,11 +494,13 @@
 
 
 
+	<h2 id="subnets">Subnets</h2>
+<p>A <strong>subnet</strong> is a segment of the IP address range that you use when provisioning your Amazon VPC. It directly provides the active network range to the AWS resources that may run within it, such as Amazon EC2 and Amazon RDS (Amazon Relational Database Service). Subnets are identified through CIDR blocks (e.g., 10.0.1.0/24 and 192.168.0.0/24), and the subnet&rsquo;s CIDRs must be within the VPC&rsquo;s CIDR. The smallest subnet that can be created is /28 (16 IP addresses). AWS reserves the first 4 IP addresses and the last 1 IP address of each subnet for intranet networking purposes. For example, a /28 subnet has 16 available IP addresses, but 5 reserved IPs are used for AWS, leaving 11 usable IP addresses for resources operating within this subnet.
+addresses within this range from outside the Internet.</p>
+<p><img alt="Subnets" src="/images/1-Introduce/subnet.png?featherlight=false&width=50pc"></p>
 
 
-<ul>
-	
-</ul>
+
 
 
 <footer class=" footline" >
@@ -528,8 +538,6 @@
             
                 
                     
-                        
-                        
                     
                 
                 
@@ -545,6 +553,7 @@
             
             
                 
+                    
                     
                 
                 
@@ -564,6 +573,9 @@
             
             
                 
+                    
+                        
+                        
                     
                 
                 
@@ -705,8 +717,10 @@
 	 
 	 
 		
+			<a class="nav nav-prev" href="/projects/1-project-001/" title="Project 001"> <i class="fa fa-chevron-left"></i></a>
 		
-			<a class="nav nav-next" href="/projects/1-project-001/" title="Project 001" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+		
+			<a class="nav nav-next" href="/projects/2-project-002/" title="Project 002" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>

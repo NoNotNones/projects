@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project 005 on My Projects</title>
+    <link>http://localhost:1313/projects/5-project-005/</link>
+    <description>Recent content in Project 005 on My Projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/projects/5-project-005/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

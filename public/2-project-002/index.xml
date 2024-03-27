@@ -7,12 +7,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/projects/2-project-002/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tường lửa trong VPC</title>
-      <link>http://localhost:1313/projects/2-project-002/_index.vi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/2-project-002/_index.vi/</guid>
-      <description>Tường lửa trong VPC Trong phần này, chúng ta sẽ cùng tìm hiểu các tính năng bảo mật cơ bản trong Amazon VPC như tính năng tường lửa Security Group và Network Access Control Lists.&#xA;Một security group hoạt động như một tường lửa ảo cho EC2 Instance, giúp kiểm soát lưu lượng truy cập. Một Instance trong VPC có thể được gán tối đa 5 Security group do SG chỉ hoạt động ở tầng Instance mà không họat động ở tầng Subnet.</description>
-    </item>
   </channel>
 </rss>

@@ -21,7 +21,7 @@ In this lab, you will explore the fundamentals of Amazon VPC (Virtual Private Cl
 
 1. [Project 001](/projects/1-project-001/)
 2. [Project 002](/projects/2-project-002/)
-3. [Preparation Steps](3-prerequiste/)
-4. [Creating an EC2 Server](4-createec2server/)
-5. [Configuration of Site-to-Site VPN](5-vpnsitetosite/)
-6. [Resource Cleanup](6-cleanup/)
+3. [Project 003](/projects/3-project-003/)
+4. [Project 004](/projects/4-project-004/)
+5. [Project 005](/projects/5-project-005/)
+
