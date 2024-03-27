@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project 001 on Start with Amazon VPC and AWS VPN Site-to-Site.</title>
+    <title>Project 001 on My Projects</title>
     <link>http://localhost:1313/projects/1-project-001/</link>
-    <description>Recent content in Project 001 on Start with Amazon VPC and AWS VPN Site-to-Site.</description>
+    <description>Recent content in Project 001 on My Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/projects/1-project-001/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giới thiệu</title>
+      <link>http://localhost:1313/projects/1-project-001/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/1-project-001/_index.vi/</guid>
+      <description>Giới thiệu Amazon VPC Amazon Virtual Private Cloud (Amazon VPC) là “Đám mây Riêng tư Ảo” là một mạng ảo tùy chỉnh nằm bên trong AWS Cloud và tách biệt với toàn bộ thế giới bên ngoài. Khái niệm này tương tự như việc thiết kế và triển khai một mạng độc lập riêng biệt hoạt động trong một trung tâm dữ liệu on-premise, loại hình vẫn còn rất phổ biến hiện nay tại nhiều nơi trên thế giới.</description>
+    </item>
   </channel>
 </rss>

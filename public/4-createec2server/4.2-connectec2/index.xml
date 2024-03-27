@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test Connection on Start with Amazon VPC and AWS VPN Site-to-Site.</title>
+    <title>Test Connection on My Projects</title>
     <link>http://localhost:1313/projects/4-createec2server/4.2-connectec2/</link>
-    <description>Recent content in Test Connection on Start with Amazon VPC and AWS VPN Site-to-Site.</description>
+    <description>Recent content in Test Connection on My Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/projects/4-createec2server/4.2-connectec2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kiểm tra kết nối</title>
+      <link>http://localhost:1313/projects/4-createec2server/4.2-connectec2/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/4-createec2server/4.2-connectec2/_index.vi/</guid>
+      <description>Kiểm tra kết nối Có nhiều cách kết nối EC2, các bạn có thể tham khảo kết nối EC2 bằng PuTTY. Trong bài lab, chúng ta sử dụng MobaXterm để kết nối EC2&#xA;Thực hiện tải MobaXterm Truy cập vào trang EC2&#xA;Chọn Instances Chọn EC2 Public Chọn Details Xem Public IPv4 address Sau khi tải MobaXterm, tiến hành giải nén và mở&#xA;Chọn Session Trong giao diện Session settings</description>
+    </item>
   </channel>
 </rss>

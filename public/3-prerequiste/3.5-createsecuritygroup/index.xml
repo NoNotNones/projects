@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Create Security Group on Start with Amazon VPC and AWS VPN Site-to-Site.</title>
+    <title>Create Security Group on My Projects</title>
     <link>http://localhost:1313/projects/3-prerequiste/3.5-createsecuritygroup/</link>
-    <description>Recent content in Create Security Group on Start with Amazon VPC and AWS VPN Site-to-Site.</description>
+    <description>Recent content in Create Security Group on My Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/projects/3-prerequiste/3.5-createsecuritygroup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tạo Security Group</title>
+      <link>http://localhost:1313/projects/3-prerequiste/3.5-createsecuritygroup/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/3-prerequiste/3.5-createsecuritygroup/_index.vi/</guid>
+      <description>Tạo Security Group Tạo Security Group cho máy chủ nằm trong Public subnet Trong giao diện VPC&#xA;Chọn Security Group Chọn Cretae security group Thực hiện cấu hình Security group&#xA;Security Group name, nhập Public subnet - SG Description, nhập Allow SSH and Ping for servers in public subnet. Chọn ASG VPC Thực hiện cấu hình Inbound rules&#xA;Trong Inbound rules, click Add rule.&#xA;Chọn Type: SSH và Source: My IP.</description>
+    </item>
   </channel>
 </rss>

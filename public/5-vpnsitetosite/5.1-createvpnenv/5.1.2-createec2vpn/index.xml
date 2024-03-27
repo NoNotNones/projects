@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Create EC2 as a Customer Gateway on Start with Amazon VPC and AWS VPN Site-to-Site.</title>
+    <title>Create EC2 as a Customer Gateway on My Projects</title>
     <link>http://localhost:1313/projects/5-vpnsitetosite/5.1-createvpnenv/5.1.2-createec2vpn/</link>
-    <description>Recent content in Create EC2 as a Customer Gateway on Start with Amazon VPC and AWS VPN Site-to-Site.</description>
+    <description>Recent content in Create EC2 as a Customer Gateway on My Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/projects/5-vpnsitetosite/5.1-createvpnenv/5.1.2-createec2vpn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tạo EC2 Instance</title>
+      <link>http://localhost:1313/projects/5-vpnsitetosite/5.1-createvpnenv/5.1.2-createec2vpn/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/5-vpnsitetosite/5.1-createvpnenv/5.1.2-createec2vpn/_index.vi/</guid>
+      <description>Tạo EC2 để làm Customer Gateway Truy cập vào VPC&#xA;Chọn Security Group Chọn Create security group Trong giao diện Create security group&#xA;Security group name, nhập VPN Public -SG Trong phần Description điền Allow IPSec, SSH and Ping for servers in public subnet. VPC, chọn ASG VPN vpc Tiến hành cấu hình Inbound rules&#xA;Chọn Add rule Chọn Type: SSH và Source: My IP. My IP đại diện cho 1 địa chỉ public IPv4 bạn đang sử dụng.</description>
+    </item>
   </channel>
 </rss>

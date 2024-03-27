@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NAT Gateway on Start with Amazon VPC and AWS VPN Site-to-Site.</title>
+    <title>NAT Gateway on My Projects</title>
     <link>http://localhost:1313/projects/1-project-001/1.4-natgateway/</link>
-    <description>Recent content in NAT Gateway on Start with Amazon VPC and AWS VPN Site-to-Site.</description>
+    <description>Recent content in NAT Gateway on My Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/projects/1-project-001/1.4-natgateway/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NAT Gateway</title>
+      <link>http://localhost:1313/projects/1-project-001/1.4-natgateway/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/1-project-001/1.4-natgateway/_index.vi/</guid>
+      <description>NAT Gateway Mặc định, mọi EC2 chạy bên trong Private subnet thì sẽ không có khả năng giao tiếp với Internet thông qua IGW. Từ đó vấn đề phát sinh khi EC2 đó cần truy cập ra ngoài Internet để áp dụng các bản cập nhật bảo mật, tải xuống các bản vá hoặc cập nhật phần mềm ứng dụng.&#xA;Nắm bắt được nhu cầu đó, AWS cung cấp 2 phương thức cho phép các EC2 bên trong Private subnet có quyền được truy cập Internet, đó là NAT Instance và NAT Gateway.</description>
+    </item>
   </channel>
 </rss>

@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Configure VPN Connection on Start with Amazon VPC and AWS VPN Site-to-Site.</title>
+    <title>Configure VPN Connection on My Projects</title>
     <link>http://localhost:1313/projects/5-vpnsitetosite/5.2-vpnsitetosite/</link>
-    <description>Recent content in Configure VPN Connection on Start with Amazon VPC and AWS VPN Site-to-Site.</description>
+    <description>Recent content in Configure VPN Connection on My Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/projects/5-vpnsitetosite/5.2-vpnsitetosite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cấu hình kết nối VPN</title>
+      <link>http://localhost:1313/projects/5-vpnsitetosite/5.2-vpnsitetosite/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/5-vpnsitetosite/5.2-vpnsitetosite/_index.vi/</guid>
+      <description>Cấu hình kết nối VPN Ở bước này chúng ta sẽ tiến hành tạo Virtual Private Gateway , Customer Gateway và kết nối VPN Site to Site.&#xA;Nội dung: Tạo Virtual Private Gateway Tạo Customer Gateway Tạo VPN Connection Cấu hình Customer GW Cấu hình VPN tunnel </description>
+    </item>
   </channel>
 </rss>

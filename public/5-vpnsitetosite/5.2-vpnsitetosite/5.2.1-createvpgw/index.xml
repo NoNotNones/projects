@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Create Virtual Private Gateway on Start with Amazon VPC and AWS VPN Site-to-Site.</title>
+    <title>Create Virtual Private Gateway on My Projects</title>
     <link>http://localhost:1313/projects/5-vpnsitetosite/5.2-vpnsitetosite/5.2.1-createvpgw/</link>
-    <description>Recent content in Create Virtual Private Gateway on Start with Amazon VPC and AWS VPN Site-to-Site.</description>
+    <description>Recent content in Create Virtual Private Gateway on My Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/projects/5-vpnsitetosite/5.2-vpnsitetosite/5.2.1-createvpgw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tạo Virtual Private Gateway</title>
+      <link>http://localhost:1313/projects/5-vpnsitetosite/5.2-vpnsitetosite/5.2.1-createvpgw/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/5-vpnsitetosite/5.2-vpnsitetosite/5.2.1-createvpgw/_index.vi/</guid>
+      <description>Tạo Virtual Private Gateway Truy cập vào VPC&#xA;Chọn Virtual Private Gateway Chọn Create Virtual Private Gateway Trong giao diện Create Virtual Private Gateway&#xA;Name tag, nhập VPN Gateway Chọn Amazon default ASN Chọn Create virtual private gateway Chúng ta cần thực hiện Attach to VPC&#xA;Chọn Actions Chọn Attach to VPC Trong giao diện Attach to VPC&#xA;Chọn VPC ASG. Chọn Attach to VPC Hoàn tất và xem State là Attached </description>
+    </item>
   </channel>
 </rss>

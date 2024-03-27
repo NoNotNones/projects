@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Create VPC for VPN on Start with Amazon VPC and AWS VPN Site-to-Site.</title>
+    <title>Create VPC for VPN on My Projects</title>
     <link>http://localhost:1313/projects/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/</link>
-    <description>Recent content in Create VPC for VPN on Start with Amazon VPC and AWS VPN Site-to-Site.</description>
+    <description>Recent content in Create VPC for VPN on My Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/projects/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tạo VPC cho VPN</title>
+      <link>http://localhost:1313/projects/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/5-vpnsitetosite/5.1-createvpnenv/5.1.1-createvpnvpc/_index.vi/</guid>
+      <description>Tạo môi trường VPN Truy cập giao diện VPC&#xA;Chọn Yours VPC Chọn Create VPC Trong giao diện Cretae VPC&#xA;Resource, chọn VPC only Name, nhập ASG VPN IPv4 CIDR block, nhập 10.11.0.0/16 Chọn Create VPC Tạo VPC thành công Truy cập giao diện VPC&#xA;Chọn Subnets Chọn Create subnet Trong giao diện Create subnet&#xA;Chọn ASG VPN vpc Trong giao diện Subnet settings&#xA;Subnet name, nhập VPN Public Lựa chọn Availability Zone: ap-southeast-1a Chọn IPv4 CIDR block là 10.</description>
+    </item>
   </channel>
 </rss>

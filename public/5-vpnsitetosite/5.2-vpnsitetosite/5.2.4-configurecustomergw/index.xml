@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Customer Gateway Configuration on Start with Amazon VPC and AWS VPN Site-to-Site.</title>
+    <title>Customer Gateway Configuration on My Projects</title>
     <link>http://localhost:1313/projects/5-vpnsitetosite/5.2-vpnsitetosite/5.2.4-configurecustomergw/</link>
-    <description>Recent content in Customer Gateway Configuration on Start with Amazon VPC and AWS VPN Site-to-Site.</description>
+    <description>Recent content in Customer Gateway Configuration on My Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/projects/5-vpnsitetosite/5.2-vpnsitetosite/5.2.4-configurecustomergw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cấu hình Customer Gateway</title>
+      <link>http://localhost:1313/projects/5-vpnsitetosite/5.2-vpnsitetosite/5.2.4-configurecustomergw/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/5-vpnsitetosite/5.2-vpnsitetosite/5.2.4-configurecustomergw/_index.vi/</guid>
+      <description>Cấu hình Customer Gateway Truy cập vào VPC&#xA;Chọn Site-to-Site VPN Connection Chọn VPN Connection đã tạo Chọn Download Configuration Trong hộp thoại Download Configuration, lựa chọn appliance phù hợp với bạn: Trong bài thực hành này, chúng ta sẽ sử dụng OpenSwan.&#xA;Vendor: Chọn OpenSwan Platform: Chọn OpenSwan Software: Chọn OpenSwan 2.6.38+ IKE version: Chọn ikev1 Chọn Download. Lưu thông tin file câu hình vào thư mục chúng ta sử dụng lưu trữ key pair và công cụ cho bài lab.</description>
+    </item>
   </channel>
 </rss>

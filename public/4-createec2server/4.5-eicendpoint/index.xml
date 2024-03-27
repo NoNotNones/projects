@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Create EC2 Instance Connect Endpoint (Optional) on Start with Amazon VPC and AWS VPN Site-to-Site.</title>
+    <title>Create EC2 Instance Connect Endpoint (Optional) on My Projects</title>
     <link>http://localhost:1313/projects/4-createec2server/4.5-eicendpoint/</link>
-    <description>Recent content in Create EC2 Instance Connect Endpoint (Optional) on Start with Amazon VPC and AWS VPN Site-to-Site.</description>
+    <description>Recent content in Create EC2 Instance Connect Endpoint (Optional) on My Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/projects/4-createec2server/4.5-eicendpoint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tạo EC2 Instance Connect Endpoint (Optional)</title>
+      <link>http://localhost:1313/projects/4-createec2server/4.5-eicendpoint/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/4-createec2server/4.5-eicendpoint/_index.vi/</guid>
+      <description>EC2 Instance Connect Endpoint Trong bước 4.2 Kiểm tra kết nối, các bạn thấy rằng: để truy cập vào EC2 Private bạn cần phải:&#xA;Dùng công cụ pscp để copy key pair từ máy của chúng ta vào EC2 Public Truy cập vào EC2 Public Cấp quyền cho key pair SSH tới máy chủ EC2 Private -&amp;gt; Như bạn thấy, lúc này EC2 Public đóng vai trò như Bastion Host và chúng ta cần trả chi phí cho instance này.</description>
+    </item>
   </channel>
 </rss>

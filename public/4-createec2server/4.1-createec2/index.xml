@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Create EC2 Server on Start with Amazon VPC and AWS VPN Site-to-Site.</title>
+    <title>Create EC2 Server on My Projects</title>
     <link>http://localhost:1313/projects/4-createec2server/4.1-createec2/</link>
-    <description>Recent content in Create EC2 Server on Start with Amazon VPC and AWS VPN Site-to-Site.</description>
+    <description>Recent content in Create EC2 Server on My Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/projects/4-createec2server/4.1-createec2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tạo máy chủ EC2</title>
+      <link>http://localhost:1313/projects/4-createec2server/4.1-createec2/_index.vi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/4-createec2server/4.1-createec2/_index.vi/</guid>
+      <description>Tạo EC2 nằm trong Public subnet Truy cập AWS Management Console&#xA;Tìm EC2 Chọn EC2 Trong giao diện EC2&#xA;Chọn Instances Chọn Launch instances Name and tags của instance, nhập EC2 Public Thực hiện chọn AMI&#xA;Chọn Quick Start Chọn Amazon Linux 2 Chọn AMI Thực hiện chọn Instance type và Chọn Create new key pair Trong giao diện Cretae key pair&#xA;Key pair name, nhập aws-keypair (tên tùy chọn, bạn có thể đặt bất kỳ).</description>
+    </item>
   </channel>
 </rss>
