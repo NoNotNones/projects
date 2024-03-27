@@ -19,8 +19,8 @@ In this lab, you will explore the fundamentals of Amazon VPC (Virtual Private Cl
 
 #### Projects
 
-1. [Introduction to VPC](/projects/1-introduce/)
-2. [Firewall within VPC](/projects/2-firewallinvpc/)
+1. [Project 001](/projects/1-project-001/)
+2. [Project 002](/projects/2-project-002/)
 3. [Preparation Steps](3-prerequiste/)
 4. [Creating an EC2 Server](4-createec2server/)
 5. [Configuration of Site-to-Site VPN](5-vpnsitetosite/)
