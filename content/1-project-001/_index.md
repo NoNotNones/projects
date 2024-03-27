@@ -14,15 +14,13 @@ pre : " <b> 1. </b> "
 
 ## Dashboard
 
-![pfelk](/projects/images/pfelk/1.jpg?featherlight=false&width=90pc)
-
-![pfelk](/projects/images/1/1.jpg?featherlight=false&width=90pc)
+![pfelk](/projects/images/pfelk/1.JPG?featherlight=false&width=90pc)
 
 ![pfelk](/projects/images/pfelk/2.JPG?featherlight=false&width=90pc)
 
-![pfelk](/projects/images/pfelk/3.jpg?featherlight=false&width=90pc)
+![pfelk](/projects/images/pfelk/3.JPG?featherlight=false&width=90pc)
 
-![pfelk](/projects/images/pfelk/4.jpg?featherlight=false&width=90pc)
+![pfelk](/projects/images/pfelk/4.JPG?featherlight=false&width=90pc)
 
 - [Notes](1.1-notes/)
 
