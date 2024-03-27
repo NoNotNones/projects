@@ -1,2 +1,2 @@
-# projects
-My Project
+# workshop-001
+Workshop AWS
