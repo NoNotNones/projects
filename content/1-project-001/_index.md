@@ -16,7 +16,9 @@ pre : " <b> 1. </b> "
 
 ![pfelk](/projects/images/pfelk/1.jpg?featherlight=false&width=90pc)
 
-![pfelk](/projects/images/pfelk/2.jpg?featherlight=false&width=90pc)
+![pfelk](/projects/images/1/1.jpg?featherlight=false&width=90pc)
+
+![pfelk](/projects/images/pfelk/2.JPG?featherlight=false&width=90pc)
 
 ![pfelk](/projects/images/pfelk/3.jpg?featherlight=false&width=90pc)
 
