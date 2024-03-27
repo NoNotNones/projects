@@ -1,17 +1,22 @@
 ---
-title : "Project 002"
+title : "Network Security Enhancement"
 date : "`r Sys.Date()`"
 weight : 2
 chapter : false
 pre : " <b> 2. </b> "
 ---
 
-### Security Groups
+### Introduction 
+**Integrate ntop-ng with pfsense firewall**
+- Real-time monitoring and analysis of network traffic, offering insights into bandwidth usage, top talkers, and application protocols.
+- Implemented user and host tracking features to facilitate troubleshooting, monitor user behavior, and identify potential security incidents.
 
-A **Security Group** acts as a virtual firewall for an EC2 Instance, allowing control over network traffic. In a VPC, an Instance can be assigned up to 5 Security Groups. It's important to note that Security Groups operate at the Instance layer and not at the Subnet layer.
+## Dashboard
 
-> **Note:** Security Groups function at the virtual machine level, rather than the subnet level. However, each virtual machine within a subnet can be assigned to different security groups.
+![pfelk](/projects/images/ntop/1.png?featherlight=false&width=90pc)
 
-## Contents
+![pfelk](/projects/images/ntop/2.png?featherlight=false&width=90pc)
+
+![pfelk](/projects/images/ntop/3.png?featherlight=false&width=90pc)
 
 - [Notes](2.1-notes/)

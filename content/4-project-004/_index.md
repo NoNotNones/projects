@@ -1,17 +1,16 @@
 ---
-title : "Project 004"
+title : "Automated System Monitoring"
 date : "`r Sys.Date()`"
 weight : 4
 chapter : false
 pre : " <b> 4. </b> "
 ---
 
-## Create EC2 Server
+### Introduction 
+- Connecting **Zabbix** and **Hikvision ISAPI** to monitor camera status and alert for system issues.
 
-In this step, we will create 2 EC2 servers (EC2 instances) following the architecture shown below:
+## Dashboard
 
-![Create EC2](/images/4-CreateEc2Server/lab-3.4.png?featherlight=false&width=60pc)
-
-## Contents
+![pfelk](/projects/images/hikvision/1.jpg?featherlight=false&width=90pc)
 
 - [Notes](4.1-notes/)

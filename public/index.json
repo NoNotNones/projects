@@ -4,7 +4,7 @@
 	"title": "My Projects",
 	"tags": [],
 	"description": "",
-	"content": "Wellcome to my projects Overviews Lets learn and best practices\nProjects: pfELK centralization logs Project 002 Project 003 Project 004 Project 005 "
+	"content": "Wellcome to my projects Overviews Lets learn and best practices\nProjects: pfELK centralization logs Network Security Enhancement Monitoring network infrastructure Automated System Monitoring Project 005 "
 },
 {
 	"uri": "http://localhost:1313/projects/1-project-001/1.1-notes/",
@@ -46,28 +46,28 @@
 	"title": "pfELK centralization logs",
 	"tags": [],
 	"description": "",
-	"content": "Introduction Deploy and configure PFELK (pfSense \u0026amp; ELK Stack (Elasticsearch, Logstash, Kibana)) for real-time monitoring of network traffic and security events. Kibana dashboards can be customized to display relevant information, helping administrators to quickly identify and respond to security incidents. Improved log analysis capabilities, enabling rapid detection and response to security incidents. Dashboard Notes "
+	"content": "Introduction Docker Containerization\nDeploy and configure PFELK (pfSense \u0026amp; ELK Stack (Elasticsearch, Logstash, Kibana)) for real-time monitoring of network traffic and security events. Kibana dashboards can be customized to display relevant information, helping administrators to quickly identify and respond to security incidents. Improved log analysis capabilities, enabling rapid detection and response to security incidents. Dashboard Notes "
 },
 {
 	"uri": "http://localhost:1313/projects/2-project-002/",
-	"title": "Project 002",
+	"title": "Network Security Enhancement",
 	"tags": [],
 	"description": "",
-	"content": "Security Groups A Security Group acts as a virtual firewall for an EC2 Instance, allowing control over network traffic. In a VPC, an Instance can be assigned up to 5 Security Groups. It\u0026rsquo;s important to note that Security Groups operate at the Instance layer and not at the Subnet layer.\nNote: Security Groups function at the virtual machine level, rather than the subnet level. However, each virtual machine within a subnet can be assigned to different security groups.\nContents Notes "
+	"content": "Introduction Integrate ntop-ng with pfsense firewall\nReal-time monitoring and analysis of network traffic, offering insights into bandwidth usage, top talkers, and application protocols. Implemented user and host tracking features to facilitate troubleshooting, monitor user behavior, and identify potential security incidents. Dashboard Notes "
 },
 {
 	"uri": "http://localhost:1313/projects/3-project-003/",
-	"title": "Project 003",
+	"title": "Monitoring network infrastructure",
 	"tags": [],
 	"description": "",
-	"content": "Preparation steps In this exercise, we will be constructing a model based on the following diagram:\nContents Notes "
+	"content": "Introduction Configured and customized Zabbix dashboard to monitoring of network elements, ensuring real-time visibility into performance and health. Dashboard Notes "
 },
 {
 	"uri": "http://localhost:1313/projects/4-project-004/",
-	"title": "Project 004",
+	"title": "Automated System Monitoring",
 	"tags": [],
 	"description": "",
-	"content": "Create EC2 Server In this step, we will create 2 EC2 servers (EC2 instances) following the architecture shown below:\nContents Notes "
+	"content": "Introduction Connecting Zabbix and Hikvision ISAPI to monitor camera status and alert for system issues. Dashboard Notes "
 },
 {
 	"uri": "http://localhost:1313/projects/5-project-005/",

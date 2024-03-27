@@ -1,17 +1,16 @@
 ---
-title : "Project 003"
+title : "Monitoring network infrastructure"
 date : "`r Sys.Date()`"
 weight : 3
 chapter : false
 pre : " <b> 3. </b> "
 ---
 
-## Preparation steps
+### Introduction 
+- Configured and customized **Zabbix** dashboard to monitoring of network elements, ensuring real-time visibility into performance and health.
 
-In this exercise, we will be constructing a model based on the following diagram:
+## Dashboard
 
-![NAT Gateway](/images/3-Prerequisite/vpc.png?featherlight=false&width=90pc)
-
-## Contents
+![pfelk](/projects/images/zabbix/1.png?featherlight=false&width=90pc)
 
 - [Notes](3.1-notes/)

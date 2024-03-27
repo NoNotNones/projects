@@ -7,7 +7,7 @@ pre : " <b> 1. </b> "
 ---
 
 ### Introduction 
-
+**Docker Containerization**
 - Deploy and configure PFELK (pfSense & ELK Stack (Elasticsearch, Logstash, Kibana)) for real-time monitoring of network traffic and security events.
 - Kibana dashboards can be customized to display relevant information, helping administrators to quickly identify and respond to security incidents.
 - Improved log analysis capabilities, enabling rapid detection and response to security incidents.
