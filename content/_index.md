@@ -7,21 +7,20 @@ chapter : false
 
 # Wellcome to my projects
 
-#### Overviews
+### Overviews
 
-In this lab, you will explore the fundamentals of Amazon VPC (Virtual Private Cloud) and AWS VPN (Virtual Private Network) Site-to-Site connections. Gain an understanding of essential concepts and features within Amazon VPC, and practice creating a basic VPC. Additionally, learn how to configure a Site-to-Site VPN to establish a connection between an on-premise environment and an AWS VPC environment.
+Lets learn and best practices
 
-![VPC](/projects/images/1-Introduce/serviceicon.png?featherlight=false&width=10pc)
+#### Projects:
 
-![Create VPC](/projects/images/1/0001.png?featherlight=false&width=90pc)
-
-
-
-#### Projects
-
-1. [Project 001](/projects/1-project-001/)
+1. [pfELK centralization logs](/projects/1-project-001/)
 2. [Project 002](/projects/2-project-002/)
 3. [Project 003](/projects/3-project-003/)
 4. [Project 004](/projects/4-project-004/)
 5. [Project 005](/projects/5-project-005/)
+
+
+
+
+
 

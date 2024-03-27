@@ -6,7 +6,9 @@ chapter : false
 pre : " <b> 5. </b> "
 ---
 
-In this guide, we will discuss how to connect an On-premise data center to Amazon VPC using a hard or soft VPN, depending on the specific requirements. To establish a Site-to-Site VPN connection, the following steps need to be taken:
+#### Overviews
+
+In this project, we will discuss how to connect an On-premise data center to Amazon VPC using a hard or soft VPN, depending on the specific requirements. To establish a Site-to-Site VPN connection, the following steps need to be taken:
 
 ## 1. Virtual Private Gateway (VPG) and Customer Gateway (CGW) Setup
 

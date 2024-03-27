@@ -1,17 +1,26 @@
 ---
-title : "Project 001"
+title : "pfELK centralization logs"
 date : "`r Sys.Date()`" 
 weight : 1 
 chapter : false
 pre : " <b> 1. </b> "
 ---
 
-## Introduction to Amazon VPC
+### Introduction 
 
-Amazon Virtual Private Cloud (Amazon VPC) is a **Virtual Private Cloud**—a customized virtual network hosted within the AWS Cloud and isolated from the external world. This concept resembles the design and implementation of a distinct standalone network environment in an on-premise data center, a practice still widely employed across many countries.
+- Deploy and configure PFELK (pfSense & ELK Stack (Elasticsearch, Logstash, Kibana)) for real-time monitoring of network traffic and security events.
+- Kibana dashboards can be customized to display relevant information, helping administrators to quickly identify and respond to security incidents.
+- Improved log analysis capabilities, enabling rapid detection and response to security incidents.
 
-## Contents
+## Dashboard
+
+![pfelk](/projects/images/pfelk/1.jpg?featherlight=false&width=90pc)
+
+![pfelk](/projects/images/pfelk/2.jpg?featherlight=false&width=90pc)
+
+![pfelk](/projects/images/pfelk/3.jpg?featherlight=false&width=90pc)
+
+![pfelk](/projects/images/pfelk/4.jpg?featherlight=false&width=90pc)
 
 - [Notes](1.1-notes/)
 
-In the following sections, we will delve into the fundamental concepts of VPC.
