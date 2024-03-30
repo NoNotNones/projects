@@ -1,13 +1,13 @@
 ---
-title : "Sample Projects"
+title : "Certificate"
 date : "`r Sys.Date()`"
 weight : 5
 chapter : false
 pre : " <b> 5. </b> "
 ---
 
-### Introduction 
+### AWS Cloud Practitioner Essentials
 
-## Contents
+![cert](/projects/images/cert/cert2.png?featherlight=false&width=90pc)
 
 - [Notes](5.1-notes/)

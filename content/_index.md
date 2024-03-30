@@ -13,7 +13,7 @@ chapter : false
 2. [Network Security Enhancement](/projects/2-project-002/)
 3. [Monitoring network infrastructure](/projects/3-project-003/)
 4. [Automated System Monitoring](/projects/4-project-004/)
-5. [Project 005](/projects/5-project-005/)
+5. [Certificate](/projects/5-project-005/)
 
 
 

@@ -4,7 +4,7 @@
 	"title": "My Projects",
 	"tags": [],
 	"description": "",
-	"content": "Wellcome to my projects Projects: pfELK centralization logs Network Security Enhancement Monitoring network infrastructure Automated System Monitoring Project 005 "
+	"content": "Wellcome to my projects Projects: pfELK centralization logs Network Security Enhancement Monitoring network infrastructure Automated System Monitoring Certificate "
 },
 {
 	"uri": "http://localhost:1313/projects/1-project-001/1.1-notes/",
@@ -71,10 +71,10 @@
 },
 {
 	"uri": "http://localhost:1313/projects/5-project-005/",
-	"title": "Sample Projects",
+	"title": "Certificate",
 	"tags": [],
 	"description": "",
-	"content": "Introduction Contents Notes "
+	"content": "AWS Cloud Practitioner Essentials Notes "
 },
 {
 	"uri": "http://localhost:1313/projects/categories/",
