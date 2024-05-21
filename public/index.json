@@ -1,5 +1,12 @@
 [
 {
+	"uri": "http://localhost:1313/projects/6-ba/6.1-notes/",
+	"title": "Business Analysis Foundations",
+	"tags": [],
+	"description": "",
+	"content": "Overivew "
+},
+{
 	"uri": "http://localhost:1313/projects/",
 	"title": "My Projects",
 	"tags": [],
@@ -74,7 +81,14 @@
 	"title": "Certificate",
 	"tags": [],
 	"description": "",
-	"content": "AWS Cloud Practitioner Essentials Notes "
+	"content": "AWS Cloud Practitioner Essentials "
+},
+{
+	"uri": "http://localhost:1313/projects/6-ba/",
+	"title": "BA",
+	"tags": [],
+	"description": "",
+	"content": "Introduction Business Analysis Foundations "
 },
 {
 	"uri": "http://localhost:1313/projects/categories/",
