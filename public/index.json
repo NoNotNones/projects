@@ -4,7 +4,7 @@
 	"title": "Business Analysis Foundations",
 	"tags": [],
 	"description": "",
-	"content": "Overivew "
+	"content": "Overivew A business analyst identifies the needs and solutions for an organization to enable change.\nWhat is business analysis (BA) The thing that\u0026rsquo;s interesting is that we tend to learn what the rules are and it drives us crazy when the rules aren\u0026rsquo;t being followed, but that frustration is where we discover both problems and opportunities\nEx: Like, if you\u0026rsquo;re on an airplane and you see that people aren\u0026rsquo;t boarding in their proper boarding groups, well, you might ask, Business analysis industry definitions "
 },
 {
 	"uri": "http://localhost:1313/projects/",
@@ -63,6 +63,13 @@
 	"content": "Introduction Integrate ntop-ng with pfsense firewall\nReal-time monitoring and analysis of network traffic, offering insights into bandwidth usage, top talkers, and application protocols. Implemented user and host tracking features to facilitate troubleshooting, monitor user behavior, and identify potential security incidents. Dashboard Notes "
 },
 {
+	"uri": "http://localhost:1313/projects/6-ba/6.2.pbi/",
+	"title": "PowerBI",
+	"tags": [],
+	"description": "",
+	"content": "Cource Power BI Essential Training\napp.powerbi.com or powerbi.microsoft.com\nSign in Try Free One Month: https://www.microsoft.com/en-us/microsoft-365/microsoft-365-business-standard-one-month-trial\n(not working 22-5-24 )\nGet Data Data Source\nGet existing content from an app\nWhat is business analysis (BA) The thing that\u0026rsquo;s interesting is that we tend to learn what the rules are and it drives us crazy when the rules aren\u0026rsquo;t being followed, but that frustration is where we discover both problems and opportunities\nEx: Like, if you\u0026rsquo;re on an airplane and you see that people aren\u0026rsquo;t boarding in their proper boarding groups, well, you might ask, Business analysis industry definitions "
+},
+{
 	"uri": "http://localhost:1313/projects/3-project-003/",
 	"title": "Monitoring network infrastructure",
 	"tags": [],
@@ -81,7 +88,7 @@
 	"title": "Certificate",
 	"tags": [],
 	"description": "",
-	"content": "AWS Cloud Practitioner Essentials "
+	"content": "AWS Essential Training for Developers AWS Cloud Practitioner Essentials DevOps Foundations Site Reliability Engineering DevOps Foundations Your First Project "
 },
 {
 	"uri": "http://localhost:1313/projects/6-ba/",
